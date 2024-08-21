@@ -1,0 +1,104 @@
+.header {
+    justify-content: space-between;
+    text-align: center;
+    padding: 1rem 0;
+    align-items: center;
+}
+
+.boxparents1 {
+    gap: 2rem;
+}
+
+.boxparents2 {
+    margin: 2rem 0;
+    gap: 2rem;
+}
+
+.sary {
+    width: 5%;
+}
+
+
+.box1p1 {
+    display: flex;
+    flex-direction: column;
+    /* border: solid 2px black; */
+    border-radius: 2rem;
+    padding: 3rem;
+    width: 40rem;
+    background-color: azure;
+
+}
+
+.box2p1 {
+    display: flex;
+    flex-direction: column;
+    /* border: solid 2px black; */
+    border-radius: 2rem;
+    padding: 3rem;
+    width: 40rem;
+    background-color: azure;
+
+}
+
+.box1p2 {
+    display: flex;
+    flex-direction: column;
+    /* border: solid 2px black; */
+    border-radius: 2rem;
+    padding: 3rem;
+    width: 40rem;
+    background-color: azure;
+
+}
+
+
+.box2p2 img {
+
+
+    border-radius: 2rem;
+    /* padding: 3rem ; */
+
+    width: 37rem;
+}
+
+.conversionmney {
+    display: flex;
+    gap: 2rem;
+    margin: 1rem 0;
+    /* justify-content: center; */
+    align-items: center;
+    text-align: center;
+}
+
+.btn {
+    font-size: 19px;
+    background-color: #15b2c9db;
+    padding: 0.5rem 5rem;
+    border: none;
+    border-radius: 1.5rem;
+    font-weight: 600;
+}
+
+.titlecitation {
+    margin: 1rem 0;
+}
+
+.citation {
+    /* margin: 2rem 0 0 0; */
+    display: flex;
+    gap: 2rem;
+}
+
+.citation1{
+   
+}
+
+.deconnexion{
+    font-size: 19px;
+    background-color: #ffb491;
+    padding: 0.5rem 3rem;
+    border: none;
+    border-radius: 1.5rem;
+    font-weight: 600;
+}
